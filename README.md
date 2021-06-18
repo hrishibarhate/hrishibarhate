@@ -25,7 +25,7 @@ MySQL, Orcale, JavaScript , HTML & CSS
 
 Junit & Mockito , Postman
 
-🌱 I’m currently learning AWS Services and React.js
+🌱 I’m currently learning AWS Services
 
 
 ## On the job .. 💯
