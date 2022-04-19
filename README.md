@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 ## I work on ..
 
-Java , Spring Boot , Spring MVC , Microservices . Docker . AWS Services
+Java, Spring Boot, Spring MVC, Microservices, Docker, AWS Services
 
-MySQL, Orcale, JavaScript , HTML & CSS
+MySQL, Orcale, JavaScript, HTML & CSS
 
-Junit & Mockito , Postman
+Junit & Mockito, Postman
 
 🌱 I’m currently learning AWS Services
 
